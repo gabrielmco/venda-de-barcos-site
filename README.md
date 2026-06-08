@@ -1,5 +1,8 @@
 # Apex Yachts — The World's Absolute Peak in Bespoke Yacht Brokerage
 
+![Hero Screenshot](hero-screenshot.png)
+
+
 [![Aesthetic: Awwwards Elite](https://img.shields.io/badge/Aesthetics-Awwwards%20Elite-c9a84c?style=flat-square)](https://www.awwwards.com/)
 [![Stack: Vanilla HTML5 / CSS3 / ES6](https://img.shields.io/badge/Stack-Vanilla%20Web-0fa3b1?style=flat-square)](#tech-stack)
 [![Animations: GSAP + ScrollTrigger](https://img.shields.io/badge/Animations-GSAP%20%7C%20ScrollTrigger-ff6e14?style=flat-square)](#motion-architecture)
